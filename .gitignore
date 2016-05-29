@@ -1,0 +1,4 @@
+*.nupkg
+sconnJTAG/sconnJTAG.Droid/obj/
+sconnJTAG/sconnJTAG.UWP/bin/
+sconnJTAG/sconnJTAG.UWP/obj/
